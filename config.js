@@ -1,6 +1,4 @@
 module.exports = {
-    //////////////////////////
-    token: "", //WRITE YOUR BOT TOKEN
-    botStatus: "Umut Bayraktar ♥", //WRITE YOUR BOT STATUS.
-    //////////////////////////
+    token: "", // WRITE YOUR BOT TOKEN
+    botStatus: "excepterr", // WRITE YOUR BOT STATUS.
 }
