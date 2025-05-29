@@ -1,0 +1,20 @@
+{
+  "name": "discordjs14-handler",
+  "version": "1.0.0",
+  "description": "discordjs14-handler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "excepterr",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": "17.x"
+  }
+}
